@@ -1,0 +1,7 @@
+node_modules/
+/dist/
+/.angular-cli.json
+/.vscode
+npm-debug.log
+yarn-error.log
+e2e/*.log
